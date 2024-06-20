@@ -1,0 +1,12 @@
+python-dotenv
+pypdf 
+langchain 
+langchain-huggingface 
+pytest 
+boto3 
+langchain-community 
+sentence_transformers 
+pymongo 
+langchain-together 
+tiktoken 
+langchain-mongodb
